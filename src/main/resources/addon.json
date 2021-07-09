@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "RobCop",
+  "mainClass": "de.rob0408.RobCop",
+  "description": "Allows you to copy Chat Messages.",
+  "version": 1,
+  "author": "rob0408",
+  "category": 1,
+  "icon": "https://i.imgur.com/3xv7rQ9.png"
+}
